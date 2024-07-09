@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/KillzN"
     },
     "plugins": {
         "_antiarab": {
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por KillzN & Kill-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utiliza este comando directamente en el número principal del Bot.*",
             "texto2": "*[❗] Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*",
-            "texto3": "*[❗] La carpeta MysticSession no existe o está vacía.*",
-            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta MysticSession.*",
+            "texto3": "*[❗] La carpeta KillzNStore no existe o está vacía.*",
+            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta KillzNStore.*",
             "texto5": [
                 "*[❗] Se eliminaron",
                 "archivos de sesión, excepto el archivo creds.json.*"
@@ -2201,7 +2201,7 @@
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙰𝙽̃𝙰𝙳𝙸𝚁 𝙰",
                 " 𝙴𝚂𝚃𝙾 𝙿𝚄𝙴𝙳𝙴 𝙾𝙲𝚄𝚁𝚁𝙸𝚁 𝙿𝙾𝚁𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙴𝚂𝚃𝙴 𝙸𝙽𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙾, 𝙻𝙰 𝙿𝙴𝚁𝚂𝙾𝙽𝙰 𝚂𝙴 𝙷𝙰𝚈𝙰 𝚂𝙰𝙻𝙸𝙳𝙾 𝚁𝙴𝙲𝙸𝙴𝙽𝚃𝙴𝙼𝙴𝙽𝚃𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾 𝙾 𝙻𝙰 𝙿𝙴𝚁𝚂𝙾𝙽𝙰 𝙷𝙰𝚈𝙰 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝚂𝚄 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂, 𝚂𝙴 𝙻𝙴 𝙴𝙽𝚅𝙸𝙾 𝙻𝙰 𝙸𝙽𝚅𝙸𝚃𝙰𝙲𝙸𝙾𝙽 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙴𝙽 𝚂𝚄 𝙿𝚁𝙸𝚅𝙰𝙳𝙾 𝙰𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾*"
             ],
-            "texto4": "Hey!! Hola, me presento, soy The Mystic - Bot, y soy un Bot para WhatsApp, una persona del grupo utilizo el comando para añadirte al grupo, pero no pude agregarte, asi que te mando la invitacion para que te agregues, te esperamos!!",
+            "texto4": "Hey!! Hola, me presento, soy Kill - Bot, y soy un Bot para WhatsApp, una persona del grupo utilizo el comando para añadirte al grupo, pero no pude agregarte, asi que te mando la invitacion para que te agregues, te esperamos!!",
             "texto5": "*[❗𝐈𝐍𝐅𝐎❗] 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙰𝙽̃𝙰𝙳𝙸𝚁 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚀𝚄𝙴 𝙸𝙽𝙶𝚁𝙴𝚂𝙾, 𝙴𝚂𝚃𝙾 𝙿𝚄𝙴𝙳𝙴 𝙾𝙲𝚄𝚁𝚁𝙸𝚁 𝙿𝙾𝚁𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙴𝚂𝚃𝙴 𝙸𝙽𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙾, 𝙻𝙰 𝙿𝙴𝚁𝚂𝙾𝙽𝙰 𝚂𝙴 𝙷𝙰𝚈𝙰 𝚂𝙰𝙻𝙸𝙳𝙾 𝚁𝙴𝙲𝙸𝙴𝙽𝚃𝙴𝙼𝙴𝙽𝚃𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾 𝙾 𝙻𝙰 𝙿𝙴𝚁𝚂𝙾𝙽𝙰 𝙷𝙰𝚈𝙰 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝚂𝚄 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂, 𝚃𝙴 𝙰𝙲𝙾𝙽𝚂𝙴𝙹𝙰𝙼𝙾𝚂 𝙴𝙽𝚅𝙸𝙰𝙻𝙴 𝙻𝙰 𝙸𝙽𝚅𝙸𝚃𝙰𝙲𝙸𝙾𝙽 𝙼𝙰𝙽𝚄𝙰𝙻𝙼𝙴𝙽𝚃𝙴!!*"
         },
         "gc_admins": {
@@ -2426,8 +2426,8 @@
                 "Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
-            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
+            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
             "texto4": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_chatgptvoz": {
@@ -2436,7 +2436,7 @@
                 " Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_clima": {
@@ -2717,7 +2717,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Hola a todos 👋🏻 ¡Estamos emocionados de anunciar nuestra nueva colaboración con Cafirexos  🤖 Ahora ya pueden tener su propio bot de THE-MYSTIC-BOT-MD en su plataforma en línea, permitiendo  que tus bots estén activos las 24/7. 💻*",
+                "*Hola a todos 👋🏻 ¡Estamos emocionados de anunciar nuestra nueva colaboración con Cafirexos  🤖 Ahora ya pueden tener su propio bot de KILL-BOT en su plataforma en línea, permitiendo  que tus bots estén activos las 24/7. 💻*",
                 "_La instalación de estas versiones ha sido aprobada y ya está en pleno funcionamiento. Además, *los servidores son totalmente compatibles, lo que te permite elegir el tipo de inicio del bot según tus necesidades.* ¡Prepárate para una experiencia de usuario ininterrumpida y emocionante!_ ",
                 "*Página oficial:*",
                 "https://www.cafirexos.com/",
@@ -2772,7 +2772,7 @@
             "texto1": [
                 "_*< INFO - REPOSITORIO />*_",
                 "▢ *Nombre:*",
-                "TheMystic-Bot-MD",
+                "Kill-Bot-MD",
                 "▢ *Visitantes:*",
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
@@ -2910,7 +2910,7 @@
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
                 "▢ *Diamantes:* ",
-                "▢ *MysticCoins:* ",
+                "▢ *KillznCoins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< LISTA DE MENUS />*_",
@@ -3388,7 +3388,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "KillzNCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3397,7 +3397,7 @@
             "texto1": "『🚓︎』𝙇𝘼 𝙋𝙊𝙇𝙄𝘾𝙄𝘼 𝙀𝙎𝙏𝘼 𝙑𝙄𝙂𝙄𝙇𝘼𝙉𝘿𝙊 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙈𝙊𝙈𝙀𝙉𝙏𝙊, 𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉 :",
             "texto2": [
                 "💎 𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄",
-                "👾 𝐌𝐲𝐬𝐭𝐢𝐜𝐂𝐨𝐢𝐧𝐬"
+                "👾 KillzN𝐂𝐨𝐢𝐧𝐬"
             ],
             "texto3": [
                 "《💰》Le has robado a",
@@ -3511,7 +3511,7 @@
                 "*—◉ Continúa explorando y realizando misiones para alcanzar nuevas alturas en el Gremio de Aventureros. Sigue interactuando con el Bot!.*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_killzncoins": {
             "texto1": [
                 "Que pro 😎 has minado",
                 "🌟✨ Genial!! Obtienes",

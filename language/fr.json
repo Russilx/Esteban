@@ -1,7 +1,7 @@
 {
     "__creditos": {
         "__Contribuidor": "https://github.com/jeffersonalionco",
-        "__Criador": "https://github.com/BrunoSobrino"
+        "__Criador": "https://github.com/KillzN"
     },
     "plugins": {
         "antiarab": {
@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Téléchargé par KillzN & Kill-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -852,8 +852,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Utilisez cette commande directement sur le numéro principal du Bot.",
             "texto2": "[❗] Démarrage du processus de suppression de tous les fichiers de session, sauf le fichier creds.json...",
-            "texto3": "[❗] Le dossier MysticSession n'existe pas ou est vide.",
-            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier MysticSession.",
+            "texto3": "[❗] Le dossier KillzNStore n'existe pas ou est vide.",
+            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier KillzNStore.",
             "texto5": [
                 "[❗] Ont été supprimés",
                 "fichiers de session, sauf le fichier creds.json."
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis The Mystic - Bot et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis The Kill - Bot et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez Kill - Bot.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez Kill - Bot.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez Kill - Bot.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2392,7 +2392,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Bonjour à tous 👋🏻 Nous sommes ravis d'annoncer notre nouvelle collaboration avec Cafirexos 🤖 Désormais, vous pouvez avoir votre propre bot THE-MYSTIC-BOT-MD sur votre plateforme en ligne, permettant à vos bots d'être actifs 24/7. 💻*",
+                "*Bonjour à tous 👋🏻 Nous sommes ravis d'annoncer notre nouvelle collaboration avec Cafirexos 🤖 Désormais, vous pouvez avoir votre propre bot KILL-BOT-MD sur votre plateforme en ligne, permettant à vos bots d'être actifs 24/7. 💻*",
                 "_L'installation de ces versions a été approuvée et est déjà pleinement opérationnelle. De plus, *les serveurs sont entièrement compatibles, vous permettant de choisir le type de démarrage du bot selon vos besoins.* Préparez-vous à une expérience utilisateur fluide et passionnante !_ ",
                 "*Page officielle :*",
                 "https://www.cafirexos.com/",
@@ -3049,7 +3049,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamants* 💎",
                 "Jetons* 🪙",
-                "MysticCoins* 👾",
+                "KillznCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3058,7 +3058,7 @@
             "texto1": "『🚓』LA POLICE VOUS A PRIS SUR LE FAIT, VOUS ÊTES EN DIFFICULTÉ, VOUS AVEZ PERDU :",
             "texto2": [
                 "💎 Diamants",
-                "👾 Pièces Mystiques"
+                "👾 Pièces Killzn"
             ],
             "texto3": [
                 "《💰》Vous avez volé à",

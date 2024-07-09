@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/KillzN"
     },
     "plugins": {
         "antiarab": {
@@ -799,7 +799,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Download by KillzN & Kill-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -856,8 +856,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Use this command directly in the main Bot number.",
             "texto2": "[❗] Starting the process of deleting all session files, except for creds.json...",
-            "texto3": "[❗] The MysticSession folder does not exist or is empty.",
-            "texto4": "[❗] No files to delete were found in the MysticSession folder.",
+            "texto3": "[❗] The KillzNStore folder does not exist or is empty.",
+            "texto4": "[❗] No files to delete were found in the KillzNStore folder.",
             "texto5": [
                 "[❗]",
                 "session files were deleted, except for creds.json."
@@ -2189,7 +2189,7 @@
                 "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD THE",
                 "ACCOUNT BECAUSE THERE WAS A PROBLEM THIS IS KNOWN, THE PERSON HAS LEFT THE GROUP OR THE PERSON HAS CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY, THE GROUP PRIVACY INVITATION WAS SENT IN THEIR GROUP PRIVACY OR THE PERSON CONFIRMED THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY, I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL GUARANTEE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY!!*"
             ],
-            "texto4": "Hi!! Hello, let me introduce myself, I am The Mystic - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
+            "texto4": "Hi!! Hello, let me introduce myself, I am Kill - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
             "texto5": "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD YOUR NUMBER BECAUSE THERE WAS A PROBLEM. KNOW THAT THE PERSON LEFT THE GROUP OR THE PERSON CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY SETTING. THE INVITATION WAS SENT TO THE GROUP IN THEIR GROUP PRIVACY SETTING OR THE PERSON CONFIRMED THEIR GROUP PRIVACY. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL ENSURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING!!*"
         },
         "gc_admins": {
@@ -2411,15 +2411,15 @@
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
-            "texto3": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
+            "texto2": "You will act as a WhatsApp Bot created by KillzN, you will be Kill - Bot.",
+            "texto3": "You will act as a WhatsApp Bot created by KillzN, you will be Kill - Bot.",
             "texto4": "*[❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
+            "texto2": "You will act as a WhatsApp Bot created by KillzN, you will be Kill - Bot.",
             "texto3": "*[❗] Error, please try again*"
         },
         "herramientas_clima": {
@@ -2685,21 +2685,21 @@
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽O𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 KILLZN STORE :D*",
                 "*➤ Official Bot Groups:*",
-                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
-                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
-                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
-                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
-                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
+                "*1.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*2.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*3.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*5.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
             ],
-            "texto2": "「 Hello World 」",
+            "texto2": "「 𝗞𝗶𝗹𝗹𝘇𝗡 𝗦𝘁𝗼𝗿𝗲 」",
             "texto3": "The best WhatsApp bot"
         },
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own THE-MYSTIC-BOT-MD bot on your online platform, allowing your bots to be active 24/7. 💻*",
+                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own KILL-BOT-MD bot on your online platform, allowing your bots to be active 24/7. 💻*",
                 "_The installation of these versions has been approved and is already fully operational. Additionally, *the servers are fully compatible, allowing you to choose the type of bot startup according to your needs.* Get ready for a seamless and exciting user experience!_",
                 "*Official Page:*",
                 "https://www.cafirexos.com/",
@@ -2889,7 +2889,7 @@
                 "▢ *Experience:* ",
                 "▢ *Ranking:* ",
                 "▢ *Diamonds:* ",
-                "▢ *Mystical Coins:* ",
+                "▢ *KillzN Coins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< MENU LIST />*_",
@@ -3356,7 +3356,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamonds* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "KillzNCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3365,7 +3365,7 @@
             "texto1": "『🚓』THE POLICE CAUGHT YOU IN THE ACT, YOU'RE IN TROUBLE, YOU LOST :",
             "texto2": [
                 "💎 Diamonds",
-                "👾 Mystic Coins"
+                "👾 KillzN Coins"
             ],
             "texto3": [
                 "《💰》You stole from",
@@ -3479,7 +3479,7 @@
                 "*—◉ Keep exploring and completing missions to reach new heights in the Guild of Adventurers. Keep interacting with the Bot!*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_killzncoins": {
             "texto1": [
                 "What a pro 😎 you mined",
                 "🌟✨ Cool!! You receive",
