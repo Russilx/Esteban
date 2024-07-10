@@ -42,8 +42,8 @@ global.owner = [
   ['56983073328']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['56983073328'];
+global.prems = ['56983073328'];
 
 global.packname = 'Sticker';
 global.author = 'Kill - Bot';
