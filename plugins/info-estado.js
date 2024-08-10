@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/KillzN",
         mediaType: 2,
         previewType: "pdf",
-        title: "Kill - Bot",
+        title: "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/KillzN",

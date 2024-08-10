@@ -46,11 +46,11 @@ global.suittag = ['56983073328'];
 global.prems = ['56983073328'];
 
 global.packname = 'Sticker';
-global.author = 'Kill - Bot';
-global.wm = 'Kill - Bot';
-global.titulowm = 'Kill - Bot';
-global.titulowm2 = `Kill - Bot`
-global.igfg = 'Kill - Bot';
+global.author = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.wm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.titulowm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.titulowm2 = `𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧`
+global.igfg = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -75,9 +75,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKill - Bot`;
-global.gt = 'Kill - Bot';
-global.mysticbot = 'Kill - Bot';
+global.wm2 = `${dia} ${fecha}\n𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧`;
+global.gt = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.mysticbot = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
