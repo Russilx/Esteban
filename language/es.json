@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utiliza este comando directamente en el número principal del Bot.*",
             "texto2": "*[❗] Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*",
-            "texto3": "*[❗] La carpeta KillzNStore no existe o está vacía.*",
-            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta KillzNStore.*",
+            "texto3": "*[❗] La carpeta MysticSession no existe o está vacía.*",
+            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta MysticSession.*",
             "texto5": [
                 "*[❗] Se eliminaron",
                 "archivos de sesión, excepto el archivo creds.json.*"

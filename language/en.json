@@ -856,8 +856,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Use this command directly in the main Bot number.",
             "texto2": "[❗] Starting the process of deleting all session files, except for creds.json...",
-            "texto3": "[❗] The KillzNStore folder does not exist or is empty.",
-            "texto4": "[❗] No files to delete were found in the KillzNStore folder.",
+            "texto3": "[❗] The MysticSession folder does not exist or is empty.",
+            "texto4": "[❗] No files to delete were found in the MysticSession folder.",
             "texto5": [
                 "[❗]",
                 "session files were deleted, except for creds.json."
