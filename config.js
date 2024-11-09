@@ -12,15 +12,15 @@ global.confirmCode = ""
 
 global.owner = [
   ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 2 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 3 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 4 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 5 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 6 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - Rey KillzN 🥷🏼', false],
-  ['56983073328', '🥷🏼 KillzN - Collaborator 8 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN - By KillzN 🥷🏼', true],
-  ['56983073328','🥷🏼 KillzN - Tester KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', false],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
+  ['56983073328','🥷🏼 KillzN 🥷🏼', true],
   ['56983073328'],
   ['56983073328'],
   ['56983073328'],
@@ -45,12 +45,12 @@ global.owner = [
 global.suittag = ['56983073328'];
 global.prems = ['56983073328'];
 
-global.packname = 'Sticker';
-global.author = 'Kill - Bot';
-global.wm = 'Kill - Bot';
-global.titulowm = 'Kill - Bot';
-global.titulowm2 = `Kill - Bot`
-global.igfg = 'Kill - Bot';
+global.packname = 'KɪʟʟᴢN';
+global.author = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
+global.wm = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
+global.titulowm = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
+global.titulowm2 = `@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔`
+global.igfg = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -63,7 +63,7 @@ global.imagen7 = fs.readFileSync('./src/menu_pt.png');
 global.imagen8 = fs.readFileSync('./src/menu_fr.png')
 global.imagen9 = fs.readFileSync('./src/menu_en.png')
 global.imagen10 = fs.readFileSync('./src/menu_ru.png')
-
+global.imagen11 = fs.readFileSync('./freefire.jpg');
 global.mods = [];
 
 //* *******Tiempo***************
