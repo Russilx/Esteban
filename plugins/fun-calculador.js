@@ -20,6 +20,18 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
         description = `${tradutor.texto3[0]} ${text.toUpperCase()} ${tradutor.texto3[1]} ${percentages}% Gay. ${emoji}*\n${tradutor.texto3[2]}`;
       }
       break;
+
+      case 'violin':
+      emoji = '🏳️‍🌈';
+      if (percentages < 50) {
+        description = `${tradutor.texto1[0]} ${text.toUpperCase()} ${tradutor.texto1[1]} ${percentages}% Gay. ${emoji}*\n${tradutor.texto1[2]}`;
+      } else if (percentages > 100) {
+        description = `${tradutor.texto2[0]} ${text.toUpperCase()} ${tradutor.texto2[1]} ${percentages}% Gay. ${emoji}*\n${tradutor.texto2[2]}`;
+      } else {
+        description = `${tradutor.texto3[0]} ${text.toUpperCase()} ${tradutor.texto3[1]} ${percentages}% Gay. ${emoji}*\n${tradutor.texto3[2]}`;
+      }
+      break;
+
     case 'lesbiana':
       emoji = '🏳️‍🌈';
       if (percentages < 50) {
