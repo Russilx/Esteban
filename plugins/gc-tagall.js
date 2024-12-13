@@ -12,12 +12,13 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
     throw false;
   }
   const pesan = args.join` `;
-  const oi = `*𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎:* ${pesan}`;
-  let teks = `*EL ZURDO Y LA AGUS SON RE PUTAS*\n\n ${oi}\n\n➥ _*@tebi_.01:*_\n`;
+  const oi = `*MENSAJE:* ${pesan}`;
+  let teks = `*✨You are never too old to set another goal or to dream a new dream✨
+*\n\n ${oi}\n\n➥ _*@tebi_.01:*_\n`;
   for (const mem of participants) {
-    teks += `🥷🏼 ⇝ @${mem.id.split('@')[0]}\n`;
+    teks += `𝙴𝙴𝙰 ➭ @${mem.id.split('@')[0]}\n`;
   }
-  teks += `└ *Bot EEA ⇝@tebi_.01*`;
+  teks += `└ *Bot EEA ⇝@ezequiel.caporalini_*`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];

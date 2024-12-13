@@ -38,7 +38,7 @@ ${tradutor.texto1[16]}
   const buttonMessage= {
     'document': {url: `https://github.com/Russilx`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝙆𝙄𝙇𝙇𝙕𝙉 𝙎𝙏𝙊𝙍𝙀 」`,
+    'fileName': `「  EEA STORE 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
