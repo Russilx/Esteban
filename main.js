@@ -416,14 +416,14 @@ global.reloadHandler = async function(restatConn) {
 
   // Para cambiar estos mensajes, solo los archivos en la carpeta de language, 
   // busque la clave "handler" dentro del json y cámbiela si es necesario
-  conn.welcome = '👋 ¡Bienvenido/a!\n@user';
-  conn.bye = '👋 ¡Hasta luego!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user Fue promovido a administrador.*';
-  conn.sdemote = '*[ ℹ️ ] @user Fue degradado de administrador.*';
-  conn.sDesc = '*[ ℹ️ ] La descripción del grupo ha sido modificada.*';
-  conn.sSubject = '*[ ℹ️ ] El nombre del grupo ha sido modificado.*';
-  conn.sIcon = '*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*';
-  conn.sRevoke = '*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*';
+  conn.welcome = '👋 ¡Chupasela a los admin!\n@user';
+  conn.bye = '👋 ¡nadie te va a extrañar!\n@user';
+  conn.spromote = '*[ ℹ️ ] @user Buenaaaaa, Te subieron de rango (te hicieron admin).*';
+  conn.sdemote = '*[ ℹ️ ] @user JAJAJAJA Te sacaron el administrador, perdedor.*';
+  conn.sDesc = '*[ ℹ️ ] La Descripcion Se Modifico, Ahora esta peor que antes.*';
+  conn.sSubject = '*[ ℹ️ ] Se Ha Modifico El Nombre De Mierda Que tenia Anteriormente.*';
+  conn.sIcon = '*[ ℹ️ ] Se Ha Cambiado La Foto De Mierda Que Tenia Anteriormente.*';
+  conn.sRevoke = '*[ ℹ️ ] El Enlace De Invitacion Fue Modificado Para Que Ningun Otro Pelotudo Entre*';
 
   conn.handler = handler.handler.bind(global.conn);
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn);
@@ -577,7 +577,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[ ⏳ ] Uptime: ${uptime}`;
+  const bio = `Tiempo Prendido: ${uptime}`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
