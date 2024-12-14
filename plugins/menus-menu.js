@@ -38,19 +38,23 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃📲 wa.me/5491125950331*
 *┗━━━━━⇝⚔️⇜━━━━━┛*
 
- *┏━⚙️𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑⚙️━┓*
+ *┏━⚙️𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁⚙️━┓*
  *┣➤ 🟢 ${usedPrefix}enable*
  *┣➤ 🔴 ${usedPrefix}disable*
   ┗━━━━━━━━━━┛
 
- *┏━━━❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️━━━┓*
+   *┏━🎤𝙰𝚄𝙳𝙸𝙾𝚂🎤━┓*
+ *┣➤  ${usedPrefix}Menu2*
+  ┗━━━━━━━━━━┛
+
+ *┏━━━❄️ 𝙶𝚁𝚄𝙿𝙾𝚂 ❄️━━━┓*
  *┣➤  ${usedPrefix}kick*
  *┣➤  ${usedPrefix}menuff*
  *┣➤  ${usedPrefix}grupo*
  *┣➤  ${usedPrefix}promote*
  *┣➤  ${usedPrefix}demote*
  *┣➤  ${usedPrefix}link*
- *┣➤  ${usedPrefix}invocar*
+ *┣➤  ${usedPrefix}todos*
  *┣➤  ${usedPrefix}setwelcome*
  *┣➤  ${usedPrefix}setbye*
  *┣➤  ${usedPrefix}hidetag*
@@ -58,7 +62,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┣➤  ${usedPrefix}kickfantasmas*
  *┗━━━━━━━━━━━━━━━━┛*
 
- *┏━𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 𝗫 𝗙𝗜𝗟𝗧𝗥𝗢𝗦━┓*
+ *┏━𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝚇 𝙵𝙸𝙻𝚃𝚁𝙾━┓*
  *┣➤* 🎐 _${usedPrefix}sticker | s *imagen o video*_
  *┣➤* 🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
  *┣➤* 🎐 _${usedPrefix}emojimix *😺+😆*_
@@ -79,7 +83,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┣➤* 🎐 _${usedPrefix}cs *:* cs2_
  *┗━━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━━🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮━━━┓*
+*┏━━━🎮 𝙹𝚄𝙴𝙶𝙾𝚂 🎮━━━┓*
 *┣➤ 🕹️ ${usedPrefix}mates*
 *┣➤ 🕹️ ${usedPrefix}ppt*
 *┣➤ 🕹️ ${usedPrefix}prostituto <@tag>*
@@ -128,7 +132,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 🕹️ ${usedPrefix}kchero*
 *┗━━━━━━━━━━━━━━━━┛*
 
-*┏━━━🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴━━━┓*
+*┏━━━🈴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚂 🈴━━━┓*
 *┣➤ 📥 ${usedPrefix}play*
 *┣➤ 📥 ${usedPrefix}play.1*
 *┣➤ 📥 ${usedPrefix}play2.2*
@@ -150,7 +154,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 📥 ${usedPrefix}igstory*
 *┗━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━━👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀━━━┓*
+*┏━━━👀 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙸𝙳𝙾𝚁𝙴𝚂 👀━━━┓*
 *┣➤ 📍 ${usedPrefix}toimg*
 *┣➤ 📍 ${usedPrefix}tomp3*
 *┣➤ 📍 ${usedPrefix}toptt*
@@ -158,20 +162,20 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 📍 ${usedPrefix}tts*
 *┗━━━━━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓━━┓*
+*┏━━♓ 𝙴𝙵𝙴𝙲𝚃𝙾𝚂 𝚈 𝙻𝙾𝙶𝙾𝚂 ♓━━┓*
 *┣➤ ❄️ ${usedPrefix}ytcomment*
 *┣➤ ❄️ ${usedPrefix}hornycard*
 *┣➤ ❄️ ${usedPrefix}itssostupid*
 *┣➤ ❄️ ${usedPrefix}pixelar*
 *┗━━━━━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━💌 𝐅𝐑𝐀𝐒𝐄𝐒 𝐘 𝐓𝐄𝐗𝐓𝐎𝐒 💌━━┓*
+*┏━━💌 𝙵𝚁𝙰𝚂𝙴𝚂 𝚈 𝚃𝙴𝚇𝚃𝙾𝚂 💌━━┓*
 *┣➤ 🥀 ${usedPrefix}piropo*
 *┣➤ 🥀 ${usedPrefix}consejo*
 *┣➤ 🥀 ${usedPrefix}fraseromantica*
 *┗━━━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━✨ 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ✨━━┓*
+*┏━━✨ 𝙱𝚄𝚂𝙲𝙰𝙳𝙾𝚁𝙴𝚂 ✨━━┓*
 *┣➤ 🔍 ${usedPrefix}xnxxsearch*
 *┣➤ 🔍 ${usedPrefix}google*
 *┣➤ 🔍 ${usedPrefix}letra*
@@ -182,7 +186,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 🔍 ${usedPrefix}pornhubsearch*
 *┗━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝━━┓*
+*┏━━🌝 𝙷𝙴𝚁𝚁𝙰𝙼𝙸𝙴𝙽𝚃𝙰𝚂 🌝━━┓*
 *┣➤ 🍃 ${usedPrefix}clima*
 *┣➤ 🍃 ${usedPrefix}afk*
 *┣➤ 🍃 ${usedPrefix}ocr*
@@ -193,7 +197,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 🍃 ${usedPrefix}traducir*
 *┗━━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━━💎 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 💎━━━┓*
+*┏━━━💎 𝙴𝙲𝙾𝙽𝙾𝙼𝙸𝙰𝚂 💎━━━┓*
 *┣➤ 🍁 ${usedPrefix}verificar*
 *┣➤ 🍁 ${usedPrefix}unreg*
 *┣➤ 🍁 ${usedPrefix}minar*
@@ -203,7 +207,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┣➤ 🍁 ${usedPrefix}transfer*
 *┗━━━━━━━━━━━━━━━━━━━┛*
 
-*┏━━━𝗙𝗨𝗡𝗖𝗜𝗢𝗡𝗘𝗦 𝗢𝗪𝗡𝗘𝗥𝗦━━━┓*
+*┏━━━𝙵𝚄𝙽𝙲𝙸𝙾𝙽𝙴𝚂 𝙾𝚆𝙽𝙴𝚁𝚂━━━┓*
 *┣➤* 💎➺ _${usedPrefix}join *enlace*_
 *┣➤* 💎➺ _${usedPrefix}unete *enlace*_
 *┣➤* 💎➺ _${usedPrefix}dardiamantes *cantidad*_
@@ -270,7 +274,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     conn.reply(m.chat, tradutor.texto1[29], m);
   }
 };
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos|cmd)$/i;
+handler.command = /^(menu|comandos|ayuda)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

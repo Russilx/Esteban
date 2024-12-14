@@ -41,48 +41,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┃*𝙈𝙚𝙣𝙪 𝘼𝙪𝙙𝙞𝙤𝙨*  
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
 ┣ *- ${_translate.plugins.menu_audios.texto1}*
-┣ 𝙑𝙊𝙕⤳ _Quien es tu sempai botsito_
-┣ 𝙑𝙊𝙕⤳ _Te diagnostico con gay_
-┣ 𝙑𝙊𝙕⤳ _No digas eso papu_
-┣ 𝙑𝙊𝙕⤳ _A nadie le importa_
-┣ 𝙑𝙊𝙕⤳ _Fiesta del admin_
-┣ 𝙑𝙊𝙕⤳ _Fiesta del administrador_ 
-┣ 𝙑𝙊𝙕⤳ _Vivan los novios_
-┣ 𝙑𝙊𝙕⤳ _Feliz cumpleaños_
-┣ 𝙑𝙊𝙕⤳ _Noche de paz_
-┣ 𝙑𝙊𝙕⤳ _Buenos dias_
-┣ 𝙑𝙊𝙕⤳ _Buenos tardes_
-┣ 𝙑𝙊𝙕⤳ _Buenos noches_
-┣ 𝙑𝙊𝙕⤳ _Audio hentai_
 ┣ 𝙑𝙊𝙕⤳ _Chica lgante_
-┣ 𝙑𝙊𝙕⤳ _Feliz navidad_
-┣ 𝙑𝙊𝙕⤳ _Vete a la vrg_
-┣ 𝙑𝙊𝙕⤳ _Pasa pack Bot_
-┣ 𝙑𝙊𝙕⤳ _Atencion grupo_
-┣ 𝙑𝙊𝙕⤳ _Marica quien_
-┣ 𝙑𝙊𝙕⤳ _Murio el grupo_
-┣ 𝙑𝙊𝙕⤳ _Oh me vengo_
-┣ 𝙑𝙊𝙕⤳ _tio que rico_
-┣ 𝙑𝙊𝙕⤳ _Viernes_
-┣ 𝙑𝙊𝙕⤳ _Baneado_
-┣ 𝙑𝙊𝙕⤳ _Sexo_
-┣ 𝙑𝙊𝙕⤳ _Hola_
-┣ 𝙑𝙊𝙕⤳ _Un pato_
-┣ 𝙑𝙊𝙕⤳ _Nyanpasu_
-┣ 𝙑𝙊𝙕⤳ _Te amo_
-┣ 𝙑𝙊𝙕⤳ _Yamete_
-┣ 𝙑𝙊𝙕⤳ _Bañate_
-┣ 𝙑𝙊𝙕⤳ _Es puto_
-┣ 𝙑𝙊𝙕⤳ _La biblia_
-┣ 𝙑𝙊𝙕⤳ _Onichan_
-┣ 𝙑𝙊𝙕⤳ _Mierda de Bot_
-┣ 𝙑𝙊𝙕⤳ _Siuuu_
-┣ 𝙑𝙊𝙕⤳ _Epico_
-┣ 𝙑𝙊𝙕⤳ _Shitpost_
 ┣ 𝙑𝙊𝙕⤳ _Rawr_
-┣ 𝙑𝙊𝙕⤳ _UwU_
-┣ 𝙑𝙊𝙕⤳ _:c_
-┣ 𝙑𝙊𝙕⤳ _a_
+┣ 𝙑𝙊𝙕⤳ _Amiquemeimporta_
+┣ 𝙑𝙊𝙕⤳ _chauchau_
+┣ 𝙑𝙊𝙕⤳ _doñaparaguaya_
+┣ 𝙑𝙊𝙕⤳ _pesola_
+┣ 𝙑𝙊𝙕⤳ _queriko_
+┣ 𝙑𝙊𝙕⤳ _salud_
 ┗━━━━━━━━━━━━━━━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
@@ -97,7 +63,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto2, m);
   }
 };
-handler.command = /^(menu2|menú2|menuaudio|menuaudios)$/i;
+handler.command = /^(menu2|menú2|menuaudio)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

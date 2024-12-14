@@ -26,7 +26,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *Esteban* —◉
+║    ◉— *+18 EEA* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ ${tradutor.texto1[1]} ${taguser}*
 ╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
@@ -60,7 +60,6 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwfoot_
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwass_
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwbdsm_
-┣ ඬ⃟ 🔞 _${usedPrefix}nsfwcum_
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwero_
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwfemdom_
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwglass_
@@ -79,7 +78,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(menulabiblia|labiblia|Labiblia|KillPorn)$/i;
+handler.command = /^(menu18)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;
