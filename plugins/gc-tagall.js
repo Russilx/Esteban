@@ -13,8 +13,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `*MENSAJE:* ${pesan}`;
-  let teks = `*✨You are never too old to set another goal or to dream a new dream✨
-*\n\n ${oi}\n\n➥ _*@tebi_.01:*_\n`;
+  let teks = `*✨You are never too old to set another goal or to dream a new dream✨*\n\n ${oi}\n\n➥ _*@tebi_.01:*_\n`;
   for (const mem of participants) {
     teks += `𝙴𝙴𝙰 ➭ @${mem.id.split('@')[0]}\n`;
   }
